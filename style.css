@@ -102,5 +102,17 @@ p {
 }
 
 #heading2 {
-    font-family: 'Anton', sans-serif;     
-    }
+    font-family: 'Anton', sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: crimson;
+}
+
+html {
+    scroll-behavior: smooth;
+}
